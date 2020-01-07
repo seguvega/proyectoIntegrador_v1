@@ -1,0 +1,11 @@
+CREDENCIALES REMOTE MYSQL
+
+Username: d3jIkEoQmo
+
+Database name: d3jIkEoQmo
+
+Password: 1prKd8qwwn
+
+Server: remotemysql.com
+
+Port: 3306
